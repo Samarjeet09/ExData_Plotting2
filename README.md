@@ -79,7 +79,9 @@ For each plot you should
 * Upload the PNG file on the Assignment submission page
 * Copy and paste the R code from the corresponding R file into the text box at the appropriate point in the peer assessment.
 
-# Exploratory Data Analysis Project 2 (JHU) Coursera
+---
+
+# Exploratory Data Analysis Project 2 (JHU) Coursera Solution
 
 Downloading the data set
 ----------
